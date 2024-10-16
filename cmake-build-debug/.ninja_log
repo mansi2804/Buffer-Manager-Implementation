@@ -1,0 +1,14 @@
+# ninja log v6
+130	239	1728038500136349938	assign2_buffer_manager	1ca8f4355bdf7207
+362	491	1727963607346680515	CMakeFiles/assign2_buffer_manager.dir/storage_mgr.c.o	894f94057fcba821
+5	129	1728038500011829101	CMakeFiles/assign2_buffer_manager.dir/buffer_mgr.c.o	3586a05d5f67fc84
+4	84	1728035577443143376	CMakeFiles/assign2_buffer_manager.dir/test_assign2_2.c.o	26c35e47701848a7
+3	151	1728035577442395524	CMakeFiles/assign2_buffer_manager.dir/test_assign2_1.c.o	56e41bbdeea49bfc
+4	349	1727963606988233698	CMakeFiles/assign2_buffer_manager.dir/dberror.c.o	a11bb8d3b9dfba67
+7	640	1727978197442738633	CMakeFiles/assign2_buffer_manager.dir/buffer_mgr_stat.c.o	475ec1ea8cd984e8
+1	128	1728039166833066317	build.ninja	5a225e60e8420bed
+3	373	1728039166854269961	CMakeFiles/assign2_buffer_manager.dir/buffer_mgr.c.o	3586a05d5f67fc84
+373	503	1728039167224001197	assign2_buffer_manager	1ca8f4355bdf7207
+4	138	1728039206650050868	CMakeFiles/assign2_buffer_manager.dir/test_assign2_1.c.o	56e41bbdeea49bfc
+5	213	1728039206650833994	CMakeFiles/assign2_buffer_manager.dir/test_assign2_2.c.o	26c35e47701848a7
+213	336	1728039206858777278	assign2_buffer_manager	1ca8f4355bdf7207

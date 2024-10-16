@@ -1,0 +1,3 @@
+/Users/sojomojo_11/Downloads/assign2_buffer_manager/cmake-build-debug/CMakeFiles/assign2_buffer_manager.dir
+/Users/sojomojo_11/Downloads/assign2_buffer_manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sojomojo_11/Downloads/assign2_buffer_manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
