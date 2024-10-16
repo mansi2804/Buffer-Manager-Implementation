@@ -1,7 +1,7 @@
 # 📚 **Advanced Database Organization**
 ## 🎯 **Assignment No. 2**
 
- 
+  
 
 ## 🏆 **Group No. 24**
 
