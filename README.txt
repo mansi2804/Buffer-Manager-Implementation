@@ -7,11 +7,11 @@
 
 ### **Group Members:**
 - **Mansi Patil**
-  *Student ID:* A20549858
+
 - **Priyansh Salian**
-  *Student ID:* A20585026
+
 - **Soham Joshi**
-  *Student ID:* A20586602
+
 
  
 ---
