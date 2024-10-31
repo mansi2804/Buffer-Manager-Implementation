@@ -4,7 +4,7 @@
 #include "dberror.h"
 #include <stdlib.h>
 
-/**
+/** 
  * @brief This function initialize the storage manager to make it ready to be used.
  */
 void initStorageManager(void)
